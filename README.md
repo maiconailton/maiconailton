@@ -1,8 +1,8 @@
 ### Olá!! Meu nome é Maicon, e seja bem-vindo (a) ao meu perfil!!👨‍💻
 
-- 💚 Apaixonado por tecnologia.
-- 🎓 Análise e Desenvolvimento de Sistemas 
-- 🧠 Atualmente estudando: HTML, CSS e JavaScript
+- 💚  Apaixonado por tecnologia.
+- 🎓  Análise e Desenvolvimento de Sistemas 
+- 🧠  Atualmente estudando: HTML, CSS e JavaScript
 
 ##
 
