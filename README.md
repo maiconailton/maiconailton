@@ -1,6 +1,6 @@
 ### Olá!! Meu nome é Maicon, e seja bem-vindo (a) ao meu perfil!!👨‍💻
 
-- 🎓  Análise e Desenvolvimento de Sistemas / Engenhearia de Software 
+- 🎓 Engenhearia de Software 
 
 
 ##
